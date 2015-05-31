@@ -11,7 +11,6 @@ print "Welcome to Python!"
 #variable: stores a piece of data and gives it a specific name
 #boolean: like a light switch, it can only have two values (true or false)
 
-
 #Whitespace and Statements
 
 #IndentationError: Python expected an indented block
